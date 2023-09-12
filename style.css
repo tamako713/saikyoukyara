@@ -95,8 +95,34 @@ p3:before {
   background: #fff;
 }
 
+header {
+  text-align: center;
+}
+
+.header {
+  background: url('20200212120008.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-align: center;
+  width: 40rem;
+  height: 20rem;
+  display: inline-block;
+}
+
+.color {
+  background: rgba(255, 255, 255, .8);
+  margin-top: 7rem;
+  height: 5rem;
+  text-align: center;
+  width: 25rem;
+  display: inline-block;
+}
+
+h1 {
+  font-family: reggae-one, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 
-
-  
 
